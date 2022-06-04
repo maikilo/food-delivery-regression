@@ -5,4 +5,4 @@ This was the final course project for the Machine Learning course. In the projec
 
 The data came from the food delivery company Wolt. https://github.com/woltapp/data-science-summer-intern-2022
 
-I used linear and Lasso regression.
+I used Lasso and tree regression.
